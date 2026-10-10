@@ -1,0 +1,6 @@
+{
+  "name": "Smart Water Quality Monitoring System",
+  "description": "AI & IoT-based water quality monitoring prototype with sensor reliability intelligence, trend-based early warnings, and explainable alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
